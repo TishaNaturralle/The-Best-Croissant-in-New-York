@@ -1,9 +1,16 @@
+body {
+  background: #f8e8a6;
+}
 h1 {
   color: black;
 }
 p {
-  font-size: small;
+  text-align: center;
 }
-background {
-  color: yellowgreen;
+footer {
+  text-align: center;
+}
+footer a {
+  margin: 0 10px;
+  color: green;
 }
